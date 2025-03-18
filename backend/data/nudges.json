@@ -48,5 +48,146 @@
         "Switch off unused lights!",
         "Use LED bulbs!",
         "Unplug devices when not in use!"
+    ],
+    "flight 1 km": [
+        "Consider virtual meetings!",
+        "Travel by train for short trips!",
+        "Offset your carbon footprint!"
+    ],
+    "train ride 1 km": [
+        "Walk for very short distances!",
+        "Cycle to nearby places!",
+        "Use shared rides!"
+    ],
+    "plastic spoon": [
+        "Carry a reusable spoon!",
+        "Use wooden cutlery!",
+        "Opt for metal spoons!"
+    ],
+    "fast fashion item": [
+        "Buy second-hand clothes!",
+        "Choose quality over quantity!",
+        "Upcycle old clothes!"
+    ],
+    "email with attachment": [
+        "Compress large files!",
+        "Use cloud links instead!",
+        "Avoid unnecessary emails!"
+    ],
+    "laptop 1 hr usage": [
+        "Switch to power-saving mode!",
+        "Shut it down when idle!",
+        "Dim the screen brightness!"
+    ],
+    "smartphone 1 hr usage": [
+        "Turn on battery saver mode!",
+        "Close unused apps!",
+        "Charge during off-peak hours!"
+    ],
+    "burger": [
+        "Try a plant-based burger!",
+        "Reduce meat consumption!",
+        "Go for a vegetarian meal!"
+    ],
+    "plastic food container": [
+        "Use a steel tiffin!",
+        "Opt for glass containers!",
+        "Reuse containers if possible!"
+    ],
+    "coffee (takeaway)": [
+        "Bring a reusable coffee cup!",
+        "Make coffee at home!",
+        "Drink at the café with their cups!"
+    ],
+    "new cotton t-shirt": [
+        "Buy organic cotton!",
+        "Wear it longer before replacing!",
+        "Repair instead of discarding!"
+    ],
+
+    "single-use razor": [
+        "Use a safety razor!",
+        "Switch to an electric trimmer!",
+        "Avoid disposable razors!"
+    ],
+    "disposable face mask": [
+        "Opt for a reusable cloth mask!",
+        "Wash and reuse your mask!",
+        "Limit single-use masks!"
+    ],
+    "toothpaste tube": [
+        "Try toothpaste tablets!",
+        "Look for recyclable tubes!",
+        "Use eco-friendly toothpaste!"
+    ],
+    "aluminum can": [
+        "Recycle your cans!",
+        "Choose glass bottles where possible!",
+        "Avoid single-use cans!"
+    ],
+    "plastic fork": [
+        "Carry a steel fork!",
+        "Use wooden or compostable forks!",
+        "Avoid disposable cutlery!"
+    ],
+    "disposable diaper": [
+        "Try reusable cloth diapers!",
+        "Limit diaper usage where possible!",
+        "Consider eco-friendly brands!"
+    ],
+    "milk 1 liter": [
+        "Buy milk in glass bottles!",
+        "Reduce dairy consumption!",
+        "Try plant-based milk alternatives!"
+    ],
+    "beef steak": [
+        "Reduce red meat intake!",
+        "Try plant-based alternatives!",
+        "Opt for chicken or lentils!"
+    ],
+    "egg": [
+        "Use cage-free or organic eggs!",
+        "Reduce egg wastage!",
+        "Try egg substitutes in baking!"
+    ],
+    "cheese slice": [
+        "Limit processed cheese intake!",
+        "Choose local dairy products!",
+        "Try vegan cheese occasionally!"
+    ],
+    "pizza": [
+        "Make homemade pizza!",
+        "Opt for less cheese toppings!",
+        "Choose vegetarian pizzas!"
+    ],
+    "glass bottle": [
+        "Reuse glass bottles!",
+        "Recycle them properly!",
+        "Opt for bulk refill stations!"
+    ],
+    "cigarette": [
+        "Avoid smoking for health & planet!",
+        "Dispose cigarette butts responsibly!",
+        "Consider quitting smoking!"
+    ],
+    "hand sanitizer bottle": [
+        "Buy in bulk & refill!",
+        "Use bar soaps at home!",
+        "Opt for glass containers if available!"
+    ],
+    "detergent plastic bottle": [
+        "Use detergent refills!",
+        "Try eco-friendly detergent sheets!",
+        "Buy in bulk to reduce plastic waste!"
+    ],
+    "packet of chips": [
+        "Buy in bulk to reduce packaging!",
+        "Try healthier snack alternatives!",
+        "Recycle soft plastic if available!"
+    ],
+    "plastic toothbrush": [
+        "Switch to a bamboo toothbrush!",
+        "Use electric toothbrushes with replaceable heads!",
+        "Recycle old brushes creatively!"
     ]
 }
