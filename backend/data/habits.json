@@ -1,0 +1,12 @@
+{
+    "plastic chai cup": 0.035,
+    "plastic straw": 0.025,
+    "plastic bag": 0.045,
+    "plastic bottle": 0.055,
+    "auto ride 1 km": 0.15,
+    "motorcycle 1 km": 0.08,
+    "leftover food 100g": 0.12,
+    "shower 5 min": 0.06,
+    "paper cup": 0.02,
+    "electricity 1 kWh": 0.82
+}

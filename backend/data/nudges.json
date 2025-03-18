@@ -1,0 +1,52 @@
+{
+    "plastic chai cup": [
+        "Switch to a steel tumbler!",
+        "Use your own cup for chai!",
+        "Try a kulhad next time!"
+    ],
+    "plastic straw": [
+        "Go for a steel straw!",
+        "Try a bamboo straw!",
+        "Skip the straw entirely!"
+    ],
+    "plastic bag": [
+        "Carry a cloth bag!",
+        "Use a jute bag instead!",
+        "Say no to plastic bags!"
+    ],
+    "plastic bottle": [
+        "Bring a steel bottle!",
+        "Refill a reusable bottle!",
+        "Avoid single-use bottles!"
+    ],
+    "auto ride 1 km": [
+        "Walk short distances!",
+        "Try a cycle next time!",
+        "Carpool with friends!"
+    ],
+    "motorcycle 1 km": [
+        "Cycle for short trips!",
+        "Use public transport!",
+        "Walk if it’s nearby!"
+    ],
+    "leftover food 100g": [
+        "Compost your leftovers!",
+        "Save it for later!",
+        "Donate extra food!"
+    ],
+    "shower 5 min": [
+        "Shorten your shower!",
+        "Use a bucket instead!",
+        "Turn off the tap while soaping!"
+    ],
+    "paper cup": [
+        "Bring your own cup!",
+        "Use a reusable tumbler!",
+        "Opt for a kulhad!"
+    ],
+    "electricity 1 kWh": [
+        "Switch off unused lights!",
+        "Use LED bulbs!",
+        "Unplug devices when not in use!"
+    ]
+}

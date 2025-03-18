@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenNudge</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>GreenNudge</h1>
+        <p>Small Steps, Big Impact!</p>
+        <input type="text" id="habit" placeholder="Kya kiya aaj? (e.g., plastic chai cup use kiya)">
+        <button onclick="getNudge()">Nudge Me!</button>
+        <div id="result"></div>
+        <div class="stats">
+            <p>Score: <span id="score">0</span></p>
+            <p>Streak: <span id="streak">0</span> din</p>
+            <p>CO2 Bachaya: <span id="co2">0</span> kg</p>
+            <p>Actions: <span id="actions">0</span></p>
+        </div>
+        <img id="avatar" src="assets/plant.png" alt="Eco Avatar">
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
